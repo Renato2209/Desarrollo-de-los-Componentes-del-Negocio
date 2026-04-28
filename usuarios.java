@@ -18,6 +18,7 @@ public class usuarios {
     }
 }
 
+
 // Clase base
 class Usuario {
     private String nombre;
