@@ -32,6 +32,8 @@ class Vehiculo {
     }
 }
 
+
+
 // Clase Auto
 class Auto extends Vehiculo {
     private int numeroPuertas;
